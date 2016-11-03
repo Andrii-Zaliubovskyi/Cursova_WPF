@@ -1,0 +1,126 @@
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.exe
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\PlayList.baml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\MainWindow.baml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\PlayList.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\App.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.cache
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.g.resources
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.Properties.Resources.resources
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.csproj.GenerateResource.Cache
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.lref
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.exe
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.pdb
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.csprojResolveAssemblyReference.cache
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\MainWindow.baml
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\PlayList.g.cs
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\App.g.cs
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.cache
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.lref
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\PlayList.baml
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.g.resources
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.Properties.Resources.resources
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.csproj.GenerateResource.Cache
+E:\Cursova_WPF\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+E:\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+E:\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Cursova_WPF_Content.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF\Cursova_WPF\obj\Debug\Default.baml
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\obj\Debug\Default.baml
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\bin\Debug\NAudio.dll
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\user.STEP\Desktop\Cursova_WPF\Cursova_WPF\bin\Debug\NAudio.xml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.dll
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.xml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Default.baml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.baml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\App.g.cs
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.cache
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.lref
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.baml
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.g.resources
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.Properties.Resources.resources
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.csproj.GenerateResource.Cache
+C:\Users\Ultimate\Desktop\Oleg\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\taglib-sharp.dll
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.pdb
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.dll
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\taglib-sharp.dll
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.xml
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Default.baml
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.baml
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.g.cs
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\App.g.cs
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.cache
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.lref
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.baml
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.g.resources
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.Properties.Resources.resources
+C:\Users\Ultimate\Desktop\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.csproj.GenerateResource.Cache
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.pdb
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.dll
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\taglib-sharp.dll
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.xml
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\ResolveAssemblyReference.cache
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Default.baml
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.baml
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.g.cs
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.g.cs
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\App.g.cs
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.cache
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.lref
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.baml
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.g.resources
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.Properties.Resources.resources
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\GenerateResource.read.1.tlog
+D:\Навчання в ШАГ 2012\WPF\Domashku\Cursova_WPF_NewVersion\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\GenerateResource.write.1.tlog
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe.config
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.exe
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.pdb
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.exe
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\Cursova_WPF.pdb
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.dll
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\taglib-sharp.dll
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\bin\Debug\NAudio.xml
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.csprojResolveAssemblyReference.cache
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Default.baml
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.baml
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.g.cs
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\MainWindow.g.cs
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\App.g.cs
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.cache
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF_MarkupCompile.lref
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\PlayList.baml
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.g.resources
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.Properties.Resources.resources
+D:\Програми та навчання\семестр № 5\Manko Yura\WPF\D_Z\Cursova_WPF_NewVersion\Cursova_WPF\obj\Debug\Cursova_WPF.csproj.GenerateResource.Cache

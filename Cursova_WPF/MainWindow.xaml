@@ -1,0 +1,93 @@
+﻿<Window x:Class="Cursova_WPF.MainWindow" Name="mainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="572.8" Width="768.6" WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent" Icon="Icon/1380032928_CD-Music.png" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <ResourceDictionary Source="Default.xaml" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="465"/>
+            <ColumnDefinition Width="465"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="136"/>
+            <RowDefinition Height="177.925"/>
+            <RowDefinition Height="246.075"/>
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Background="Black">
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="134*"/>
+                <ColumnDefinition Width="331*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Name="txtTime"  TextWrapping="Wrap" Text="00:00:00" Grid.Column="1" Margin="281,74,9,42" FontSize="16" Foreground="White"/>
+            <ToolBarPanel HorizontalAlignment="Stretch" Height="16"  VerticalAlignment="Top" Orientation="Horizontal" Grid.ColumnSpan="2">
+                <Image Name="turn_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Turn.png" Margin="430,2,2,0"  Height="15" HorizontalAlignment="Right" MouseLeftButtonDown="Turn_MouseLeftButtonDown"/>
+                <Image Name="exit_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Cancel.png" Margin="0,2,2,0"  Height="15" HorizontalAlignment="Right" MouseLeftButtonDown="Exit_MouseLeftButtonDown"/>
+            </ToolBarPanel>
+            <Image Name="prev_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Prev.png" Height="23" Margin="10,105,298,0" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="PlayPrev_MouseLeftButtonDown"/>
+            <Image Name="play_Stop_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Play.png" Height="23" Margin="38,109,270,4" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="Play_MouseLeftButtonDown"/>
+            <Image Name="next_Image" Style="{StaticResource HoveredImage}" Source="Icon/Next.png" Height="23" Margin="66,109,242,4" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="PlayNext_MouseLeftButtonDown"/>
+            <Image Name="playlist_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Playlist.png" Height="15" Margin="94,117,214,4" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="PlayList_MouseLeftButtonDown"/>
+            <Image Name="equalizer_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Equalizer.png" Height="15" Margin="117,117,191,4" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="Equalizer_MouseLeftButtonDown"/>
+            <Image Name="serialize_Image"  Style="{StaticResource HoveredImage}" Source="Icon/SavePlayList.png"  Height="15" Margin="140,117,168,4" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="SavePlayList_MouseLeftButtonDown"/>
+            <Image Name="option_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Option.png" Height="15" Margin="186,118,122,5" Grid.Column="1" RenderTransformOrigin="0.522,1" />
+            <Image Name="on_Off_Image"  Style="{StaticResource HoveredImage}" Source="Icon/SoundOn.png" Height="15" Margin="209,118,99,5" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="volumeOn_Off_MouseLeftButtonDown"/>
+            <Slider Name="durationSlider"  Grid.Column="1" HorizontalAlignment="Left" Margin="11,100,0,0" VerticalAlignment="Top" Width="310" Height="4" Foreground="Black" BorderBrush="Black" Background="White"/>
+            <TextBlock Name="txtAlbum"  Grid.Column="1" HorizontalAlignment="Left" Margin="10,21,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" RenderTransformOrigin="0.4,-0.812" Width="311" Height="20" Foreground="White"/>
+            <TextBlock x:Name="txtArtists"  Grid.Column="1" HorizontalAlignment="Left" Margin="11,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Height="20" Foreground="White"><Run Text="..."/><InlineUIContainer>
+            		
+            	</InlineUIContainer></TextBlock>
+            <TextBlock Name="txtYear"  Grid.Column="1" HorizontalAlignment="Left" Margin="11,71,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="210" Height="20" Foreground="White"/>
+            <Image Name="soundImage" Source="Icon/Cover.png"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" />
+            <Slider Name="volumeSlider"  Grid.Column="1" HorizontalAlignment="Left" Margin="237,123,0,0" VerticalAlignment="Top" Width="84" Height="4" Foreground="Black" BorderBrush="Black" Background="White" ValueChanged="volumeSlider_ValueChanged"/>
+            <Image Name="deserialize_Image"  Style="{StaticResource HoveredImage}" Source="Icon/OpenPlayList.png"  Height="15" Margin="163,118,145,4" Grid.Column="1" RenderTransformOrigin="0.522,1" MouseLeftButtonDown="OpenPlayList_MouseLeftButtonDown"/>
+        </Grid>
+        <Grid Margin="0,5,0,-7" Background="Black" Name="gridPlayList" HorizontalAlignment="Stretch"  Grid.Row="1" VerticalAlignment="Top" Height="426" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="287*"/>
+                <ColumnDefinition Width="20*"/>
+                <ColumnDefinition Width="158*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                    <RowDefinition Height="355*"/>
+                    <RowDefinition Height="32*"/>
+                </Grid.RowDefinitions>
+                <!--<DockPanel LastChildFill="True" Background="Black">
+        <DockPanel DockPanel.Dock="Left" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" LastChildFill="True" Background="Black" >-->
+
+                <!-- this is the binding that isn't working -->
+            <ListView Name="playList" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"  ItemsSource="{Binding ElementName=mainWindow, Path=list}" Background="Black" Foreground="White"  Grid.RowSpan="1" IsSynchronizedWithCurrentItem="False" ScrollViewer.HorizontalScrollBarVisibility="Disabled" MouseDoubleClick="playList_MouseDoubleClick" Grid.ColumnSpan="3">
+
+                </ListView>
+
+                <ToolBarPanel Name="toolBar" HorizontalAlignment="Stretch" VerticalAlignment="Top"   Grid.Row="1" Background="Black" Orientation="Horizontal" Grid.ColumnSpan="3">
+                    <Image Name="add_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Add.png"  Height="20" Margin="5,3,0,5"  HorizontalAlignment="Left" MouseLeftButtonDown="PlayListAdd_MouseLeftButtonDown"/>
+                    <Image Name="dell_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Dell.png"  Height="20" Margin="5,3,0,5"  HorizontalAlignment="Left" MouseLeftButtonDown="PlayListDell_MouseLeftButtonDown"/>
+                    <Image Name="AddFolder_Image"  Style="{StaticResource HoveredImage}" Source="Icon/AddFolder.png"  Height="20" Margin="5,3,0,5"  HorizontalAlignment="Left" MouseLeftButtonDown="PlayListAddFolder_MouseLeftButtonDown"/>
+                    <Image Name="information_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Information.png"  Height="20" Margin="5,3,5,5"  HorizontalAlignment="Left" MouseLeftButtonDown="Information_MouseLeftButtonDown"/>
+                    <Border BorderBrush="White" BorderThickness="2"  Height="22" Width="240">
+                        <TextBox Width="200" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" SelectionBrush="{x:Null}" BorderThickness="0"/>
+                    </Border>
+                    <Image Name="serch_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Search.png"  Height="15" Margin="-20,0,0,0"  HorizontalAlignment="Left" RenderTransformOrigin="-0.155,1.805"/>
+                    <Image Name="exitPlayList_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Cancel.png"  Height="20" Margin="97,3,5,5"  HorizontalAlignment="Left" MouseLeftButtonDown="ExitPlayList_MouseLeftButtonDown" RenderTransformOrigin="1.38,0.26"/>
+                </ToolBarPanel>
+                <!--</DockPanel>
+        
+    </DockPanel>-->
+        </Grid>
+        <Grid Name="Information"  Background="Black"  Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="2" VerticalAlignment="Stretch" Margin="5,0,161,-7">
+            <Image Name="exitInf_Image"  Style="{StaticResource HoveredImage}" Source="Icon/Cancel.png"  Height="20" Margin="269,10,0,224"  HorizontalAlignment="Left" RenderTransformOrigin="0.802,0.266" MouseLeftButtonDown="InformationExit_MouseLeftButtonDown"/>
+            <TextBlock Name="infTitleSound"  HorizontalAlignment="Left" Margin="10,35,0,0" TextWrapping="Wrap" Text="Title " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+            <TextBlock Name="infAlbumSound"  HorizontalAlignment="Left" Margin="10,65,0,0" TextWrapping="Wrap" Text="Album " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+            <TextBlock Name="infArtistSound" HorizontalAlignment="Left" Margin="10,95,0,0" TextWrapping="Wrap" Text="Artist " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+            <TextBlock Name="infYearSound" HorizontalAlignment="Left" Margin="10,125,0,0" TextWrapping="Wrap" Text="Year " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+            <TextBlock Name="infLenghtSound" HorizontalAlignment="Left" Margin="10,155,0,0" TextWrapping="Wrap" Text="Duration " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+            <TextBlock Name="infSizeSound" HorizontalAlignment="Left" Margin="10,185,0,0" TextWrapping="Wrap" Text="Size " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+            <TextBlock Name="infBitSound" HorizontalAlignment="Left" Margin="10,215,0,0" TextWrapping="Wrap" Text="Bitrate " VerticalAlignment="Top" RenderTransformOrigin="0.23,-0.865" Height="25" Width="254" Foreground="White" FontSize="16"/>
+
+        </Grid>
+        <Grid Name="Equalizer"  Grid.Column="1" HorizontalAlignment="Stretch" Margin="5,0,161,0" VerticalAlignment="Stretch" Background="Black"/>
+    </Grid>
+</Window>
